@@ -1,1 +1,2 @@
-maths is a subject
+mathis a subject of intermediuate
+
