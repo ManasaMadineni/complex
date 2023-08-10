@@ -1,2 +1,1 @@
-# complex
-.........
+maths is a subject
